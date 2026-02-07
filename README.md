@@ -5,6 +5,12 @@
 This project focuses on performing **Exploratory Data Analysis (EDA)** and **data preprocessing** on the famous **Titanic dataset** to identify key factors influencing passenger survival. The analysis was completed as **Task 2** during my internship at **Elevvo Pathways**.
 
 ---
+## Data Source
+
+The dataset is taken from the Kaggle competition:
+👉 [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)
+
+---
 
 ## Objectives
 
